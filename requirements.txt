@@ -1,0 +1,6 @@
+# 원본 import와 Notebook 실행에 필요한 후보 범위. 당시 환경의 lock 파일이 아니며 설치/브라우저 실행 미검증.
+beautifulsoup4>=4.12,<5
+selenium>=4.10,<5
+pandas>=2.2,<3
+jupyterlab>=4,<5
+ipykernel>=6,<7
